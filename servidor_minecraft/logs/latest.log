@@ -522,3 +522,47 @@
 [05Jul2024 04:21:17.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game
 [05Jul2024 04:21:19.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiza_Combo lost connection: Disconnected
 [05Jul2024 04:21:19.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo left the game
+[05Jul2024 04:26:11.054] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chiza_Combo is d40ead28-2cc9-4a81-b529-04818d1b6151
+[05Jul2024 04:26:12.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chiza_Combo[/[::1]:35504] logged in with entity id 650 at (33.153428032067374, 94.0, -16.69999998807907)
+[05Jul2024 04:26:12.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo joined the game
+[05Jul2024 04:26:45.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Stone Age]
+[05Jul2024 04:26:58.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Getting an Upgrade]
+[05Jul2024 04:27:20.805] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ByGonkaPvP is 8c565cee-1b96-475f-b269-0475c6ac7a29
+[05Jul2024 04:27:23.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByGonkaPvP[/[::1]:52594] logged in with entity id 920 at (5.5, 84.0, -2.5)
+[05Jul2024 04:27:23.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP joined the game
+[05Jul2024 04:27:23.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Ice and Fire]
+[05Jul2024 04:27:34.292] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Kuripasdf is 5044051d-1679-47cb-84db-72c81ec7e74d
+[05Jul2024 04:27:36.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuripasdf[/[::1]:51018] logged in with entity id 980 at (27.206617750781557, 95.0, -18.45597713028567)
+[05Jul2024 04:27:36.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf joined the game
+[05Jul2024 04:27:51.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Super Hoe]
+[05Jul2024 04:27:51.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [A bag of Bonemeal?]
+[05Jul2024 04:27:51.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Super Pickaxe]
+[05Jul2024 04:27:51.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [CUP!]
+[05Jul2024 04:27:51.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Super Sword]
+[05Jul2024 04:27:51.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [SUPER CUP!]
+[05Jul2024 04:27:51.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Super Axe]
+[05Jul2024 04:27:51.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Super Shovel]
+[05Jul2024 04:27:51.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Super Sickle]
+[05Jul2024 04:28:23.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByGonkaPvP lost connection: Disconnected
+[05Jul2024 04:28:23.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP left the game
+[05Jul2024 04:28:34.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Stone Age]
+[05Jul2024 04:28:49.003] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ByGonkaPvP is 8c565cee-1b96-475f-b269-0475c6ac7a29
+[05Jul2024 04:28:51.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByGonkaPvP[/[::1]:36772] logged in with entity id 1151 at (31.325416082809106, 95.0, -16.04435115770171)
+[05Jul2024 04:28:51.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP joined the game
+[05Jul2024 04:29:51.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByGonkaPvP lost connection: Disconnected
+[05Jul2024 04:29:51.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP left the game
+[05Jul2024 04:30:01.285] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ByGonkaPvP is 8c565cee-1b96-475f-b269-0475c6ac7a29
+[05Jul2024 04:30:03.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByGonkaPvP[/[::1]:35972] logged in with entity id 1304 at (31.325416082809106, 95.0, -16.04435115770171)
+[05Jul2024 04:30:03.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP joined the game
+[05Jul2024 04:31:04.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByGonkaPvP lost connection: Disconnected
+[05Jul2024 04:31:04.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP left the game
+[05Jul2024 04:31:29.869] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chiza_Combo is d40ead28-2cc9-4a81-b529-04818d1b6151
+[05Jul2024 04:31:42.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiza_Combo lost connection: Disconnected
+[05Jul2024 04:31:42.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo left the game
+[05Jul2024 04:31:42.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chiza_Combo[/[::1]:60238] logged in with entity id 1477 at (24.30000001192093, 84.0, -8.699999988079071)
+[05Jul2024 04:31:42.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo joined the game
+[05Jul2024 04:31:52.794] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ByGonkaPvP is 8c565cee-1b96-475f-b269-0475c6ac7a29
+[05Jul2024 04:31:54.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuripasdf lost connection: Timed out
+[05Jul2024 04:31:54.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game
+[05Jul2024 04:31:54.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByGonkaPvP[/[::1]:51406] logged in with entity id 1519 at (31.325416082809106, 95.0, -16.04435115770171)
+[05Jul2024 04:31:54.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP joined the game

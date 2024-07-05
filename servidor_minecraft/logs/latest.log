@@ -130,3 +130,30 @@
 [05Jul2024 22:13:42.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Take Aim]
 [05Jul2024 22:20:30.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Not Today, Thank You]
 [05Jul2024 22:21:19.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to ByGonkaPvP]
+[05Jul2024 22:24:50.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Suit Up]
+[05Jul2024 22:25:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Chiza_Combo to Kuripasdf]
+[05Jul2024 22:27:03.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Isn't It Iron Pick]
+[05Jul2024 22:27:07.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Suit Up]
+[05Jul2024 22:27:31.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Isn't It Iron Pick]
+[05Jul2024 22:31:16.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to ByGonkaPvP]
+[05Jul2024 22:31:26.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[05Jul2024 22:33:28.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27746, l='ServerLevel[world]', x=-825.87, y=63.02, z=620.80] died, message: 'Villager was slain by Crocodile'
+[05Jul2024 22:34:40.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Chompy]
+[05Jul2024 22:34:46.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Chompy]
+[05Jul2024 22:34:47.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Crocodile
+[05Jul2024 22:34:53.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Kuripasdf]
+[05Jul2024 22:35:19.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByGonkaPvP lost connection: Timed out
+[05Jul2024 22:35:19.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP left the game
+[05Jul2024 22:35:31.728] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ByGonkaPvP is 8c565cee-1b96-475f-b269-0475c6ac7a29
+[05Jul2024 22:35:34.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByGonkaPvP[/[::1]:58892] logged in with entity id 29170 at (-796.809142970123, 63.100000001490116, 629.386923438201)
+[05Jul2024 22:35:34.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP joined the game
+[05Jul2024 22:35:39.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Crocodile
+[05Jul2024 22:35:52.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Book of Monsters]
+[05Jul2024 22:36:12.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Kuripasdf]
+[05Jul2024 22:41:40.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ByGonkaPvP> ZZZZZZZZZZZZZZ
+[05Jul2024 22:41:58.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Chiza_Combo> ZZZZZZZZZZZZ
+[05Jul2024 22:43:49.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Ice Bucket Challenge]
+[05Jul2024 22:44:32.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-588, y=64, z=643} BlockPos{x=-589, y=63, z=642}
+[05Jul2024 22:44:32.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-587, y=64, z=642} BlockPos{x=-589, y=63, z=642}
+[05Jul2024 22:44:32.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-587, y=64, z=643} BlockPos{x=-589, y=63, z=642}
+[05Jul2024 22:44:33.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-591, y=64, z=640} BlockPos{x=-593, y=63, z=642}

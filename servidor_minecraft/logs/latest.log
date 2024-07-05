@@ -90,3 +90,14 @@
 [05Jul2024 21:19:01.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -640.500000, 66.500000, 84.500000]
 [05Jul2024 21:19:01.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to -643.500000, 66.500000, 86.500000]
 [05Jul2024 21:19:25.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Ant Farm]
+[05Jul2024 21:26:43.119] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chiza_Combo is d40ead28-2cc9-4a81-b529-04818d1b6151
+[05Jul2024 21:26:46.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chiza_Combo[/[::1]:33922] logged in with entity id 10294 at (-15.676860508148396, 88.0, 15.006857499107648)
+[05Jul2024 21:26:46.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo joined the game
+[05Jul2024 21:27:09.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Chiza_Combo a server operator
+[05Jul2024 21:27:18.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to Kuripasdf]
+[05Jul2024 21:28:05.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Acquire Hardware]
+[05Jul2024 21:29:52.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was turned into gorgonzola by Gorgon
+[05Jul2024 21:29:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was turned to stone by Gorgon
+[05Jul2024 21:31:43.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Book of Monsters]
+[05Jul2024 21:31:59.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was turned to stone by Gorgon
+[05Jul2024 21:32:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was turned to stone by Gorgon

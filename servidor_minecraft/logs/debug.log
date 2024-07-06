@@ -7108,3 +7108,71 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jul2024 03:58:58.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
 [06Jul2024 04:02:51.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 04:02:51.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:06:57.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Cover Me with Diamonds]
+[06Jul2024 04:07:51.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:07:51.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:12:51.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:12:51.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:15:27.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -515.500000, 73.500000, 1101.500000]
+[06Jul2024 04:15:33.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Chiza_Combo]
+[06Jul2024 04:15:36.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to ByGonkaPvP]
+[06Jul2024 04:17:51.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:17:51.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:19:39.726] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-273 | 34 | 768)
+[06Jul2024 04:19:39.726] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-273 | 34 | 768)
+[06Jul2024 04:19:39.726] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (-277 | 34 | 770)
+[06Jul2024 04:19:39.727] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (-277 | 34 | 770)
+[06Jul2024 04:19:39.727] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-284 | 25 | 763)
+[06Jul2024 04:19:39.727] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-284 | 25 | 763)
+[06Jul2024 04:19:39.727] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-275 | 25 | 763)
+[06Jul2024 04:19:39.727] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-275 | 25 | 763)
+[06Jul2024 04:19:39.727] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-275 | 25 | 772)
+[06Jul2024 04:19:39.727] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-275 | 25 | 772)
+[06Jul2024 04:19:39.727] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-284 | 7 | 772)
+[06Jul2024 04:19:39.729] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-284 | 7 | 772)
+[06Jul2024 04:19:39.729] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-274 | 7 | 767)
+[06Jul2024 04:19:39.729] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-274 | 7 | 767)
+[06Jul2024 04:19:39.729] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (-275 | 7 | 772)
+[06Jul2024 04:19:39.729] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (-275 | 7 | 772)
+[06Jul2024 04:20:52.426] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-273 | 34 | 768)
+[06Jul2024 04:20:52.426] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-273 | 34 | 768)
+[06Jul2024 04:20:52.427] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (-277 | 34 | 770)
+[06Jul2024 04:20:52.427] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (-277 | 34 | 770)
+[06Jul2024 04:20:52.427] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-275 | 25 | 763)
+[06Jul2024 04:20:52.427] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-275 | 25 | 763)
+[06Jul2024 04:20:52.428] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-275 | 25 | 772)
+[06Jul2024 04:20:52.429] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-275 | 25 | 772)
+[06Jul2024 04:20:52.429] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-274 | 7 | 767)
+[06Jul2024 04:20:52.429] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-274 | 7 | 767)
+[06Jul2024 04:20:52.429] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (-275 | 7 | 772)
+[06Jul2024 04:20:52.429] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (-275 | 7 | 772)
+[06Jul2024 04:20:52.429] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (-263 | 7 | 778)
+[06Jul2024 04:20:52.429] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (-263 | 7 | 778)
+[06Jul2024 04:20:52.429] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-263 | 7 | 773)
+[06Jul2024 04:20:52.429] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-263 | 7 | 773)
+[06Jul2024 04:20:52.429] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-266 | 7 | 773)
+[06Jul2024 04:20:52.430] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-266 | 7 | 773)
+[06Jul2024 04:20:52.430] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-257 | 7 | 772)
+[06Jul2024 04:20:52.430] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-257 | 7 | 772)
+[06Jul2024 04:21:03.186] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (-256 | 7 | 763)
+[06Jul2024 04:21:03.186] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (-256 | 7 | 763)
+[06Jul2024 04:21:03.186] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-257 | 7 | 772)
+[06Jul2024 04:21:03.187] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-257 | 7 | 772)
+[06Jul2024 04:21:03.187] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-243 | 6 | 759)
+[06Jul2024 04:21:03.188] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-243 | 6 | 759)
+[06Jul2024 04:21:05.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was burnt to a crisp whilst fighting Fire Dragon
+[06Jul2024 04:21:09.238] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-243 | 6 | 759)
+[06Jul2024 04:21:09.239] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-243 | 6 | 759)
+[06Jul2024 04:21:09.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -490.500000, 63.500000, 950.500000]
+[06Jul2024 04:21:14.338] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (-223 | 34 | 761)
+[06Jul2024 04:21:14.338] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (-223 | 34 | 761)
+[06Jul2024 04:22:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was turned into KFC by Fire Dragon
+[06Jul2024 04:22:16.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -466.500000, 55.500000, 1034.500000]
+[06Jul2024 04:22:24.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf was incinerated by Fire Dragon
+[06Jul2024 04:22:42.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to ByGonkaPvP]
+[06Jul2024 04:22:51.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:22:51.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:23:43.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Diamond Golem
+[06Jul2024 04:23:51.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -436.500000, 61.500000, 1010.500000]
+[06Jul2024 04:24:28.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP drowned
+[06Jul2024 04:24:33.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -440.500000, 59.500000, 999.500000]

@@ -7052,3 +7052,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jul2024 03:11:27.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
 [06Jul2024 03:12:51.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 03:12:51.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:15:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kuripasdf> no tengo cama
+[06Jul2024 03:17:51.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:17:51.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:18:55.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kuripasdf> ahi habia hierro we
+[06Jul2024 03:21:49.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Take Aim]
+[06Jul2024 03:21:54.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[06Jul2024 03:22:51.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:22:51.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:23:54.103] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25922, l='ServerLevel[world]', x=-492.47, y=70.00, z=1061.24] died, message: 'Villager was slain by Zombie'
+[06Jul2024 03:24:06.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Not Today, Thank You]

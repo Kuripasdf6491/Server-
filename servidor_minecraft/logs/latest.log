@@ -121,3 +121,19 @@
 [06Jul2024 03:03:04.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -644.500000, 93.500000, 1015.500000]
 [06Jul2024 03:03:42.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP burned to death
 [06Jul2024 03:03:47.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -659.500000, 90.500000, 1022.500000]
+[06Jul2024 03:05:46.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP burned to death
+[06Jul2024 03:05:55.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -650.500000, 94.500000, 1025.500000]
+[06Jul2024 03:06:19.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Fire Dragon
+[06Jul2024 03:06:25.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -639.500000, 89.500000, 1021.500000]
+[06Jul2024 03:06:30.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=90, z=1022} BlockPos{x=-640, y=90, z=1023}
+[06Jul2024 03:06:30.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Fire Dragon
+[06Jul2024 03:06:36.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -640.500000, 90.500000, 1019.500000]
+[06Jul2024 03:06:39.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was turned into KFC by Fire Dragon
+[06Jul2024 03:06:44.604] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Kuripasdf is 5044051d-1679-47cb-84db-72c81ec7e74d
+[06Jul2024 03:06:46.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuripasdf[/[::1]:59396] logged in with entity id 29217 at (-741.4094531427521, 70.0, 582.2467721593903)
+[06Jul2024 03:06:46.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf joined the game
+[06Jul2024 03:06:47.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -640.500000, 90.500000, 1019.500000]
+[06Jul2024 03:07:03.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to Chiza_Combo]
+[06Jul2024 03:08:20.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Chiza_Combo]
+[06Jul2024 03:09:18.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -801.500000, 66.500000, 599.500000]
+[06Jul2024 03:11:27.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]

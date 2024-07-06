@@ -3609,3 +3609,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jul2024 02:11:44.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Chiza_Combo]
 [06Jul2024 02:12:51.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 02:12:51.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 02:13:40.018] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (132 | 34 | 580).
+[06Jul2024 02:13:40.018] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[06Jul2024 02:13:40.019] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[06Jul2024 02:13:40.019] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[06Jul2024 02:13:40.019] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[06Jul2024 02:13:40.019] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[06Jul2024 02:13:40.019] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 5(0) Rooms
+[06Jul2024 02:13:40.019] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[06Jul2024 02:13:40.020] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(8) Nodes and 6(0) Rooms
+[06Jul2024 02:13:40.020] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[06Jul2024 02:13:40.020] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 4(0) Rooms
+[06Jul2024 02:17:51.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 02:17:51.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 02:18:31.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Voluntary Exile]
+[06Jul2024 02:22:51.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 02:22:51.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

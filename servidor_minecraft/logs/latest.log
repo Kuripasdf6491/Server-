@@ -193,3 +193,12 @@
 [06Jul2024 04:31:25.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -445.500000, 56.500000, 1076.500000]
 [06Jul2024 04:36:09.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was slain by Diamond Golem
 [06Jul2024 04:36:18.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -410.500000, 61.500000, 974.500000]
+[06Jul2024 04:40:59.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -801.500000, 66.500000, 599.500000]
+[06Jul2024 04:41:02.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -801.500000, 66.500000, 599.500000]
+[06Jul2024 04:41:04.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to Chiza_Combo]
+[06Jul2024 04:43:10.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuripasdf lost connection: Timed out
+[06Jul2024 04:43:10.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game
+[06Jul2024 04:43:12.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByGonkaPvP lost connection: Timed out
+[06Jul2024 04:43:12.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP left the game
+[06Jul2024 04:43:26.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiza_Combo lost connection: Timed out
+[06Jul2024 04:43:26.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo left the game

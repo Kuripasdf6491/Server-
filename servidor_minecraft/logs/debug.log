@@ -7186,3 +7186,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jul2024 04:32:51.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2024 04:36:09.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was slain by Diamond Golem
 [06Jul2024 04:36:18.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -410.500000, 61.500000, 974.500000]
+[06Jul2024 04:37:51.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:37:51.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:40:59.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -801.500000, 66.500000, 599.500000]
+[06Jul2024 04:41:02.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -801.500000, 66.500000, 599.500000]
+[06Jul2024 04:41:04.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to Chiza_Combo]
+[06Jul2024 04:42:51.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:42:51.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:43:10.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuripasdf lost connection: Timed out
+[06Jul2024 04:43:10.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game
+[06Jul2024 04:43:12.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByGonkaPvP lost connection: Timed out
+[06Jul2024 04:43:12.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP left the game
+[06Jul2024 04:43:26.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiza_Combo lost connection: Timed out
+[06Jul2024 04:43:26.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo left the game

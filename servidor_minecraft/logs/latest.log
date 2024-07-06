@@ -92,3 +92,15 @@
 [06Jul2024 02:40:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Voluntary Exile]
 [06Jul2024 02:40:12.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has completed the challenge [Hero of the Village]
 [06Jul2024 02:40:12.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has completed the challenge [Hero of the Village]
+[06Jul2024 02:52:05.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was doomed to fall
+[06Jul2024 02:52:09.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Chiza_Combo]
+[06Jul2024 02:52:25.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo died because of Diamond Golem
+[06Jul2024 02:52:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[06Jul2024 02:52:36.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [You've Got a Friend in Me]
+[06Jul2024 02:52:37.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [You've Got a Friend in Me]
+[06Jul2024 02:53:39.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiza_Combo was kicked for floating too long!
+[06Jul2024 02:53:39.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiza_Combo lost connection: Flying is not enabled on this server
+[06Jul2024 02:53:39.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo left the game
+[06Jul2024 02:53:58.811] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chiza_Combo is d40ead28-2cc9-4a81-b529-04818d1b6151
+[06Jul2024 02:54:01.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chiza_Combo[/[::1]:33874] logged in with entity id 22448 at (-744.1214188171914, 67.24918707874468, 1010.0665043468332)
+[06Jul2024 02:54:01.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo joined the game

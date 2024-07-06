@@ -1,164 +1,70 @@
-[05Jul2024 20:53:16.395] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[05Jul2024 20:53:16.399] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
-[05Jul2024 20:53:16.782] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Jul2024 20:53:16.792] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[05Jul2024 20:53:16.793] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Server-/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23119!/
-[05Jul2024 20:53:16.801] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Server-/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[05Jul2024 20:53:16.803] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[05Jul2024 20:53:16.854] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Jul2024 20:53:16.863] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[05Jul2024 20:53:17.139] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
-[05Jul2024 20:53:17.140] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[05Jul2024 20:53:17.142] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[05Jul2024 20:53:17.143] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[05Jul2024 20:53:17.286] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[05Jul2024 20:53:17.793] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[05Jul2024 20:53:17.804] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[05Jul2024 20:53:18.565] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[05Jul2024 20:53:19.126] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Jul2024 20:53:19.166] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[05Jul2024 20:53:26.285] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[05Jul2024 20:53:26.454] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
-[05Jul2024 20:53:26.455] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
-[05Jul2024 20:53:28.392] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[05Jul2024 20:53:28.404] [modloading-worker-0/INFO] [net.twomoonsstudios.moonsweaponry.MoonsWeaponry/]: GREMLINS OF ALL KINDS ARISE!!! Weaponworks setting up!
-[05Jul2024 20:53:28.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Jul2024 20:53:29.060] [modloading-worker-0/INFO] [xaero.common.MinimapLogs/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[05Jul2024 20:53:29.069] [main/INFO] [xaero.common.MinimapLogs/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[05Jul2024 20:53:29.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
-[05Jul2024 20:53:29.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supertools] Starting version check at https://raw.githubusercontent.com/TheKiritoPlayer20/SuperTools/updates/update.json
-[05Jul2024 20:53:29.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supertools] Found status: AHEAD Current: 1.1.1-1.20.1 Target: null
-[05Jul2024 20:53:30.446] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Jul2024 20:53:31.365] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/assets/.mcassetsroot' uses unexpected schema
-[05Jul2024 20:53:31.366] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/data/.mcassetsroot' uses unexpected schema
-[05Jul2024 20:53:33.124] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[05Jul2024 20:53:33.852] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[05Jul2024 20:53:33.973] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1884 advancements
-[05Jul2024 20:53:33.976] [main/INFO] [Dungeon Crawl/]: Loading data...
-[05Jul2024 20:53:34.229] [main/INFO] [Dungeon Crawl/]: Done.
-[05Jul2024 20:53:35.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Jul2024 20:53:35.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Jul2024 20:53:35.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Jul2024 20:53:35.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Jul2024 20:53:35.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Jul2024 20:53:35.292] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Jul2024 20:53:35.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Jul2024 20:53:39.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Jul2024 20:53:43.381] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jul2024 20:53:43.383] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jul2024 20:53:43.384] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jul2024 20:53:43.385] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jul2024 20:53:43.385] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jul2024 20:53:43.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jul2024 20:53:43.387] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jul2024 20:53:43.389] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jul2024 20:53:43.754] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[05Jul2024 20:53:44.254] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
-[05Jul2024 20:53:44.471] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4718 ms
-[05Jul2024 20:53:44.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.104s)! For help, type "help"
-[05Jul2024 20:53:44.505] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Jul2024 20:53:44.508] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[05Jul2024 20:53:44.508] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[05Jul2024 20:54:52.181] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ByGonkaPvP is 8c565cee-1b96-475f-b269-0475c6ac7a29
-[05Jul2024 20:54:54.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByGonkaPvP[/[::1]:46568] logged in with entity id 246 at (-1.8805073048165988, 85.0, 4.699999988079071)
-[05Jul2024 20:54:54.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP joined the game
-[05Jul2024 20:55:08.469] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Kuripasdf is 5044051d-1679-47cb-84db-72c81ec7e74d
-[05Jul2024 20:55:10.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuripasdf[/[::1]:50536] logged in with entity id 378 at (-139.992281965833, 66.0, -103.86711343428804)
-[05Jul2024 20:55:10.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf joined the game
-[05Jul2024 20:56:21.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Alex's Mobs]
-[05Jul2024 21:01:50.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Sweet Dreams]
-[05Jul2024 21:01:57.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ByGonkaPvP a server operator
-[05Jul2024 21:02:05.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Kuripasdf a server operator
-[05Jul2024 21:05:57.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Ant Farm]
-[05Jul2024 21:06:14.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Mine? Mine? Mine?]
-[05Jul2024 21:06:20.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Mine? Mine? Mine?]
-[05Jul2024 21:10:47.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-639, y=66, z=76} BlockPos{x=-640, y=65, z=76}
-[05Jul2024 21:10:52.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-646, y=66, z=78} BlockPos{x=-647, y=64, z=78}
-[05Jul2024 21:11:15.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Ghost
-[05Jul2024 21:12:14.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Who You Gonna Call?]
-[05Jul2024 21:12:52.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Kuripasdf]
-[05Jul2024 21:13:20.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Monster Hunter]
-[05Jul2024 21:14:35.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported Kuripasdf to ByGonkaPvP]
-[05Jul2024 21:15:45.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Monster Hunter]
-[05Jul2024 21:16:43.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Ghost
-[05Jul2024 21:16:57.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Kuripasdf]
-[05Jul2024 21:17:22.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf was slain by Ghost
-[05Jul2024 21:17:38.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Who You Gonna Call?]
-[05Jul2024 21:17:40.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to ByGonkaPvP]
-[05Jul2024 21:18:41.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf died because of Dogishi
-[05Jul2024 21:18:41.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP died
-[05Jul2024 21:19:01.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -640.500000, 66.500000, 84.500000]
-[05Jul2024 21:19:01.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to -643.500000, 66.500000, 86.500000]
-[05Jul2024 21:19:25.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Ant Farm]
-[05Jul2024 21:26:43.119] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chiza_Combo is d40ead28-2cc9-4a81-b529-04818d1b6151
-[05Jul2024 21:26:46.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chiza_Combo[/[::1]:33922] logged in with entity id 10294 at (-15.676860508148396, 88.0, 15.006857499107648)
-[05Jul2024 21:26:46.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo joined the game
-[05Jul2024 21:27:09.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Chiza_Combo a server operator
-[05Jul2024 21:27:18.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to Kuripasdf]
-[05Jul2024 21:28:05.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Acquire Hardware]
-[05Jul2024 21:29:52.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was turned into gorgonzola by Gorgon
-[05Jul2024 21:29:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was turned to stone by Gorgon
-[05Jul2024 21:31:43.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Book of Monsters]
-[05Jul2024 21:31:59.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was turned to stone by Gorgon
-[05Jul2024 21:32:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was turned to stone by Gorgon
-[05Jul2024 21:34:00.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was turned to stone by Gorgon
-[05Jul2024 21:34:13.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was turned into gorgonzola by Gorgon
-[05Jul2024 21:35:17.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Clash of the Titans]
-[05Jul2024 21:35:27.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Clash of the Titans]
-[05Jul2024 21:35:36.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was turned to stone by Chiza_Combo
-[05Jul2024 21:35:38.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Stone Age]
-[05Jul2024 21:36:38.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Sweet Dreams]
-[05Jul2024 21:39:54.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [The Only Good Bug...]
-[05Jul2024 21:40:02.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [The Only Good Bug...]
-[05Jul2024 21:43:13.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Myrmex Queen
-[05Jul2024 21:47:57.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Myrmex Soldier
-[05Jul2024 21:48:59.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Monster Hunter]
-[05Jul2024 21:50:05.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Not Today, Thank You]
-[05Jul2024 21:51:24.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to Kuripasdf]
-[05Jul2024 21:53:32.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Acquire Hardware]
-[05Jul2024 21:58:43.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Acquire Hardware]
-[05Jul2024 22:00:44.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [It's an Emu!!!]
-[05Jul2024 22:01:03.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [It's an Emu!!!]
-[05Jul2024 22:01:12.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was slain by Emu
-[05Jul2024 22:01:19.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to Kuripasdf]
-[05Jul2024 22:01:38.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Ghost
-[05Jul2024 22:01:45.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Kuripasdf]
-[05Jul2024 22:02:01.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Who You Gonna Call?]
-[05Jul2024 22:07:27.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP hit the ground too hard
-[05Jul2024 22:09:13.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [The Only Good Bug...]
-[05Jul2024 22:09:25.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Getting an Upgrade]
-[05Jul2024 22:13:42.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Take Aim]
-[05Jul2024 22:20:30.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Not Today, Thank You]
-[05Jul2024 22:21:19.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to ByGonkaPvP]
-[05Jul2024 22:24:50.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Suit Up]
-[05Jul2024 22:25:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Chiza_Combo to Kuripasdf]
-[05Jul2024 22:27:03.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Isn't It Iron Pick]
-[05Jul2024 22:27:07.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Suit Up]
-[05Jul2024 22:27:31.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Isn't It Iron Pick]
-[05Jul2024 22:31:16.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to ByGonkaPvP]
-[05Jul2024 22:31:26.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
-[05Jul2024 22:33:28.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27746, l='ServerLevel[world]', x=-825.87, y=63.02, z=620.80] died, message: 'Villager was slain by Crocodile'
-[05Jul2024 22:34:40.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Chompy]
-[05Jul2024 22:34:46.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Chompy]
-[05Jul2024 22:34:47.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Crocodile
-[05Jul2024 22:34:53.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Kuripasdf]
-[05Jul2024 22:35:19.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByGonkaPvP lost connection: Timed out
-[05Jul2024 22:35:19.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP left the game
-[05Jul2024 22:35:31.728] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ByGonkaPvP is 8c565cee-1b96-475f-b269-0475c6ac7a29
-[05Jul2024 22:35:34.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByGonkaPvP[/[::1]:58892] logged in with entity id 29170 at (-796.809142970123, 63.100000001490116, 629.386923438201)
-[05Jul2024 22:35:34.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP joined the game
-[05Jul2024 22:35:39.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Crocodile
-[05Jul2024 22:35:52.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Book of Monsters]
-[05Jul2024 22:36:12.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Kuripasdf]
-[05Jul2024 22:41:40.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ByGonkaPvP> ZZZZZZZZZZZZZZ
-[05Jul2024 22:41:58.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Chiza_Combo> ZZZZZZZZZZZZ
-[05Jul2024 22:43:49.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Ice Bucket Challenge]
-[05Jul2024 22:44:32.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-588, y=64, z=643} BlockPos{x=-589, y=63, z=642}
-[05Jul2024 22:44:32.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-587, y=64, z=642} BlockPos{x=-589, y=63, z=642}
-[05Jul2024 22:44:32.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-587, y=64, z=643} BlockPos{x=-589, y=63, z=642}
-[05Jul2024 22:44:33.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-591, y=64, z=640} BlockPos{x=-593, y=63, z=642}
-[05Jul2024 22:45:46.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [We Need to Go Deeper]
-[05Jul2024 22:45:47.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
-[05Jul2024 22:45:48.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [We Need to Go Deeper]
-[05Jul2024 22:45:53.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [We Need to Go Deeper]
-[05Jul2024 22:52:53.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Diamonds!]
+[06Jul2024 01:32:14.192] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[06Jul2024 01:32:14.198] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
+[06Jul2024 01:32:16.241] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06Jul2024 01:32:16.258] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[06Jul2024 01:32:16.259] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Server-/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23119!/
+[06Jul2024 01:32:16.264] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Server-/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[06Jul2024 01:32:16.266] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[06Jul2024 01:32:16.327] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[06Jul2024 01:32:16.337] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[06Jul2024 01:32:16.605] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[06Jul2024 01:32:16.607] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[06Jul2024 01:32:16.608] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[06Jul2024 01:32:16.610] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[06Jul2024 01:32:16.783] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[06Jul2024 01:32:17.427] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[06Jul2024 01:32:17.435] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[06Jul2024 01:32:18.023] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[06Jul2024 01:32:19.227] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Jul2024 01:32:19.250] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[06Jul2024 01:32:30.028] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[06Jul2024 01:32:30.235] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[06Jul2024 01:32:30.236] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[06Jul2024 01:32:32.537] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[06Jul2024 01:32:32.565] [modloading-worker-0/INFO] [net.twomoonsstudios.moonsweaponry.MoonsWeaponry/]: GREMLINS OF ALL KINDS ARISE!!! Weaponworks setting up!
+[06Jul2024 01:32:32.921] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Jul2024 01:32:33.356] [modloading-worker-0/INFO] [xaero.common.MinimapLogs/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[06Jul2024 01:32:33.358] [main/INFO] [xaero.common.MinimapLogs/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[06Jul2024 01:32:33.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[06Jul2024 01:32:33.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supertools] Starting version check at https://raw.githubusercontent.com/TheKiritoPlayer20/SuperTools/updates/update.json
+[06Jul2024 01:32:33.516] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supertools] Found status: AHEAD Current: 1.1.1-1.20.1 Target: null
+[06Jul2024 01:32:34.763] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Jul2024 01:32:35.783] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/assets/.mcassetsroot' uses unexpected schema
+[06Jul2024 01:32:35.784] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/data/.mcassetsroot' uses unexpected schema
+[06Jul2024 01:32:37.402] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[06Jul2024 01:32:38.270] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[06Jul2024 01:32:38.399] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1884 advancements
+[06Jul2024 01:32:38.402] [main/INFO] [Dungeon Crawl/]: Loading data...
+[06Jul2024 01:32:38.809] [main/INFO] [Dungeon Crawl/]: Done.
+[06Jul2024 01:32:39.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06Jul2024 01:32:39.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Jul2024 01:32:39.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Jul2024 01:32:39.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Jul2024 01:32:39.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Jul2024 01:32:39.925] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Jul2024 01:32:40.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Jul2024 01:32:44.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Jul2024 01:32:46.517] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2024 01:32:46.528] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2024 01:32:46.531] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2024 01:32:46.536] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2024 01:32:46.537] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2024 01:32:46.892] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2024 01:32:47.383] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2024 01:32:47.882] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2024 01:32:48.383] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[06Jul2024 01:32:48.882] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[06Jul2024 01:32:49.137] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4756 ms
+[06Jul2024 01:32:49.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.103s)! For help, type "help"
+[06Jul2024 01:32:49.190] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Jul2024 01:32:49.193] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[06Jul2024 01:32:49.194] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[06Jul2024 01:36:52.519] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ByGonkaPvP is 8c565cee-1b96-475f-b269-0475c6ac7a29
+[06Jul2024 01:36:54.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByGonkaPvP[/[::1]:47090] logged in with entity id 166 at (-753.5693823347214, 69.0, 583.252931723445)
+[06Jul2024 01:36:55.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP joined the game
+[06Jul2024 01:36:57.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
+[06Jul2024 01:47:20.041] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chiza_Combo is d40ead28-2cc9-4a81-b529-04818d1b6151
+[06Jul2024 01:47:22.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chiza_Combo[/[::1]:57920] logged in with entity id 2365 at (-712.2703573473889, 63.0, 616.8867116332334)
+[06Jul2024 01:47:22.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo joined the game
+[06Jul2024 01:50:56.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was shot by Piglin
+[06Jul2024 01:51:09.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Chiza_Combo]

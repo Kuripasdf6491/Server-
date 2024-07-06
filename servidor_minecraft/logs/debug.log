@@ -7072,3 +7072,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jul2024 03:29:51.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
 [06Jul2024 03:32:51.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 03:32:51.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:36:53.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Suit Up]
+[06Jul2024 03:37:49.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was slain by Zombie
+[06Jul2024 03:37:51.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:37:51.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:37:55.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -391.500000, 20.500000, 1097.500000]
+[06Jul2024 03:39:28.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[06Jul2024 03:40:11.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Wither Skeleton
+[06Jul2024 03:40:16.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported Kuripasdf to ByGonkaPvP]
+[06Jul2024 03:40:19.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Chiza_Combo]
+[06Jul2024 03:40:23.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to Chiza_Combo]
+[06Jul2024 03:42:16.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was burnt to a crisp whilst fighting Skeleton
+[06Jul2024 03:42:21.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -390.500000, 16.500000, 1100.500000]
+[06Jul2024 03:42:51.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:42:51.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:42:55.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was shot by Skeleton
+[06Jul2024 03:42:59.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -385.500000, 16.500000, 1100.500000]
+[06Jul2024 03:43:08.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was slain by Zombie
+[06Jul2024 03:43:12.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf was slain by Zombie
+[06Jul2024 03:43:14.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[06Jul2024 03:43:23.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to -395.500000, 16.500000, 1101.500000]
+[06Jul2024 03:43:45.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was slain by Zombie
+[06Jul2024 03:43:57.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -392.500000, 16.500000, 1099.500000]
+[06Jul2024 03:44:54.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was slain by Zombie
+[06Jul2024 03:45:08.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -401.500000, 17.500000, 1102.500000]
+[06Jul2024 03:45:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]

@@ -104,3 +104,20 @@
 [06Jul2024 02:53:58.811] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chiza_Combo is d40ead28-2cc9-4a81-b529-04818d1b6151
 [06Jul2024 02:54:01.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chiza_Combo[/[::1]:33874] logged in with entity id 22448 at (-744.1214188171914, 67.24918707874468, 1010.0665043468332)
 [06Jul2024 02:54:01.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo joined the game
+[06Jul2024 02:58:01.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Ol' Betsy]
+[06Jul2024 03:00:14.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was turned into KFC by Fire Dragon
+[06Jul2024 03:00:20.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was slain by Fire Dragon
+[06Jul2024 03:00:21.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Chiza_Combo]
+[06Jul2024 03:00:33.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -608.500000, 79.500000, 1010.500000]
+[06Jul2024 03:00:56.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was slain by Fire Dragon
+[06Jul2024 03:01:01.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Chiza_Combo]
+[06Jul2024 03:01:24.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was incinerated by Fire Dragon
+[06Jul2024 03:01:28.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Chiza_Combo]
+[06Jul2024 03:02:23.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was slain by Fire Dragon
+[06Jul2024 03:02:36.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was turned into KFC by Fire Dragon
+[06Jul2024 03:02:46.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[06Jul2024 03:02:57.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -761.500000, 67.500000, 992.500000]
+[06Jul2024 03:02:58.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -567.500000, 58.500000, 1047.500000]
+[06Jul2024 03:03:04.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -644.500000, 93.500000, 1015.500000]
+[06Jul2024 03:03:42.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP burned to death
+[06Jul2024 03:03:47.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -659.500000, 90.500000, 1022.500000]

@@ -7176,3 +7176,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jul2024 04:23:51.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -436.500000, 61.500000, 1010.500000]
 [06Jul2024 04:24:28.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP drowned
 [06Jul2024 04:24:33.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -440.500000, 59.500000, 999.500000]
+[06Jul2024 04:27:51.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:27:51.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:29:32.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP was doomed to fall
+[06Jul2024 04:29:40.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to -472.500000, 62.500000, 1060.500000]
+[06Jul2024 04:31:21.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was shot by Skeleton
+[06Jul2024 04:31:25.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -445.500000, 56.500000, 1076.500000]
+[06Jul2024 04:32:51.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:32:51.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:36:09.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was slain by Diamond Golem
+[06Jul2024 04:36:18.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -410.500000, 61.500000, 974.500000]

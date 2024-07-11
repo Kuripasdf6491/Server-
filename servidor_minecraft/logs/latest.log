@@ -136,3 +136,18 @@
 [11Jul2024 20:39:34.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
 [11Jul2024 20:41:38.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
 [11Jul2024 20:41:58.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[11Jul2024 20:54:54.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -390.500000, 7.500000, 1116.500000]
+[11Jul2024 20:55:06.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[11Jul2024 20:58:00.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[11Jul2024 20:58:09.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[11Jul2024 20:58:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[11Jul2024 21:01:32.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Kuripasdf]
+[11Jul2024 21:04:02.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -759.500000, 78.500000, 1006.500000]
+[11Jul2024 21:04:08.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[11Jul2024 21:05:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Kuripasdf]
+[11Jul2024 21:07:55.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuripasdf lost connection: Timed out
+[11Jul2024 21:07:55.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game
+[11Jul2024 21:07:55.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByGonkaPvP lost connection: Timed out
+[11Jul2024 21:07:55.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP left the game
+[11Jul2024 21:08:07.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiza_Combo lost connection: Timed out
+[11Jul2024 21:08:07.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo left the game

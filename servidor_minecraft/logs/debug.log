@@ -3411,3 +3411,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jul2024 19:24:27.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jul2024 19:29:27.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jul2024 19:29:27.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2024 19:32:29.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Nightmare Fuel]
+[11Jul2024 19:34:04.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to ByGonkaPvP]
+[11Jul2024 19:34:27.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2024 19:34:27.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2024 19:37:45.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Hidden in the Depths]
+[11Jul2024 19:37:50.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Hidden in the Depths]
+[11Jul2024 19:39:27.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2024 19:39:27.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

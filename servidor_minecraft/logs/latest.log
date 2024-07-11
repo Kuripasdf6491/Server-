@@ -632,3 +632,5 @@
 [11Jul2024 23:02:42.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuripasdf[/[::1]:36882] logged in with entity id 647 at (606.6999999880791, 90.0, -1392.2054022050975)
 [11Jul2024 23:02:42.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf joined the game
 [11Jul2024 23:02:44.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Recycler]
+[11Jul2024 23:11:27.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuripasdf lost connection: Timed out
+[11Jul2024 23:11:27.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game

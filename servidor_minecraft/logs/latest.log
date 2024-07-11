@@ -161,3 +161,13 @@
 [11Jul2024 21:33:44.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf joined the game
 [11Jul2024 21:34:14.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuripasdf lost connection: Timed out
 [11Jul2024 21:34:14.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game
+[11Jul2024 21:46:55.314] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Kuripasdf is 5044051d-1679-47cb-84db-72c81ec7e74d
+[11Jul2024 21:46:57.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuripasdf[/[::1]:52916] logged in with entity id 52261 at (590.8368039424661, 89.0, -1388.4729131906602)
+[11Jul2024 21:46:57.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf joined the game
+[11Jul2024 21:47:27.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuripasdf lost connection: Timed out
+[11Jul2024 21:47:27.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game
+[11Jul2024 21:49:15.447] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Kuripasdf is 5044051d-1679-47cb-84db-72c81ec7e74d
+[11Jul2024 21:49:17.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuripasdf[/[::1]:47454] logged in with entity id 52487 at (590.8368039424661, 89.0, -1388.4729131906602)
+[11Jul2024 21:49:17.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf joined the game
+[11Jul2024 21:53:48.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuripasdf lost connection: Timed out
+[11Jul2024 21:53:48.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game

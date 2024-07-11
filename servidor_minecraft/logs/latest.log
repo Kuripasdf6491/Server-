@@ -634,3 +634,51 @@
 [11Jul2024 23:02:44.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Recycler]
 [11Jul2024 23:11:27.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuripasdf lost connection: Timed out
 [11Jul2024 23:11:27.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game
+[11Jul2024 23:23:40.949] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Kuripasdf is 5044051d-1679-47cb-84db-72c81ec7e74d
+[11Jul2024 23:23:43.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuripasdf[/[::1]:40538] logged in with entity id 1845 at (608.5846010662116, 90.0, -1393.699999988079)
+[11Jul2024 23:23:43.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf joined the game
+[11Jul2024 23:26:12.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf has made the advancement [Best Friends Forever]
+[11Jul2024 23:26:34.127] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ByGonkaPvP is 8c565cee-1b96-475f-b269-0475c6ac7a29
+[11Jul2024 23:26:36.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByGonkaPvP[/[::1]:51470] logged in with entity id 2657 at (598.5219105308016, 89.0, -1393.5572682334848)
+[11Jul2024 23:26:36.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP joined the game
+[11Jul2024 23:26:37.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Recycler]
+[11Jul2024 23:27:15.377] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chiza_Combo is d40ead28-2cc9-4a81-b529-04818d1b6151
+[11Jul2024 23:27:18.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chiza_Combo[/[::1]:55938] logged in with entity id 2752 at (593.4512280576761, 89.25, -1389.4997734826488)
+[11Jul2024 23:27:18.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo joined the game
+[11Jul2024 23:27:19.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Recycler]
+[11Jul2024 23:27:28.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiza_Combo was kicked for floating too long!
+[11Jul2024 23:27:28.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiza_Combo lost connection: Flying is not enabled on this server
+[11Jul2024 23:27:28.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo left the game
+[11Jul2024 23:27:36.086] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chiza_Combo is d40ead28-2cc9-4a81-b529-04818d1b6151
+[11Jul2024 23:27:38.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chiza_Combo[/[::1]:42938] logged in with entity id 2784 at (593.4512280576761, 89.25, -1389.4997734826488)
+[11Jul2024 23:27:38.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo joined the game
+[11Jul2024 23:28:24.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=559, y=87, z=-1376} BlockPos{x=559, y=85, z=-1377}
+[11Jul2024 23:28:57.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=567, y=89, z=-1377} BlockPos{x=566, y=87, z=-1376}
+[11Jul2024 23:28:57.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=567, y=89, z=-1377} BlockPos{x=566, y=87, z=-1376}
+[11Jul2024 23:28:57.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=568, y=88, z=-1377} BlockPos{x=566, y=87, z=-1376}
+[11Jul2024 23:28:57.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=568, y=88, z=-1377} BlockPos{x=566, y=87, z=-1376}
+[11Jul2024 23:28:57.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=568, y=88, z=-1377} BlockPos{x=566, y=87, z=-1376}
+[11Jul2024 23:28:57.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=567, y=88, z=-1376} BlockPos{x=566, y=87, z=-1376}
+[11Jul2024 23:28:57.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=567, y=88, z=-1376} BlockPos{x=566, y=87, z=-1376}
+[11Jul2024 23:28:57.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=568, y=89, z=-1375} BlockPos{x=566, y=87, z=-1376}
+[11Jul2024 23:28:57.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=568, y=89, z=-1375} BlockPos{x=566, y=87, z=-1376}
+[11Jul2024 23:28:58.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=566, y=89, z=-1375} BlockPos{x=569, y=87, z=-1373}
+[11Jul2024 23:28:58.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=566, y=89, z=-1375} BlockPos{x=569, y=87, z=-1373}
+[11Jul2024 23:30:34.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to -801.500000, 66.500000, 599.500000]
+[11Jul2024 23:32:04.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to 519.500000, 76.500000, -1360.500000]
+[11Jul2024 23:33:21.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=527, y=79, z=-1352} BlockPos{x=528, y=78, z=-1352}
+[11Jul2024 23:33:25.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=531, y=80, z=-1349} BlockPos{x=531, y=79, z=-1347}
+[11Jul2024 23:35:00.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=466, y=73, z=-1333} BlockPos{x=467, y=71, z=-1331}
+[11Jul2024 23:35:02.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=73, z=-1330} BlockPos{x=468, y=71, z=-1329}
+[11Jul2024 23:35:02.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=71, z=-1328} BlockPos{x=468, y=71, z=-1329}
+[11Jul2024 23:35:02.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=71, z=-1328} BlockPos{x=468, y=71, z=-1329}
+[11Jul2024 23:35:17.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=460, y=71, z=-1324} BlockPos{x=459, y=71, z=-1323}
+[11Jul2024 23:35:23.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=71, z=-1327} BlockPos{x=457, y=71, z=-1326}
+[11Jul2024 23:35:23.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=71, z=-1327} BlockPos{x=457, y=71, z=-1326}
+[11Jul2024 23:35:28.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=464, y=71, z=-1326} BlockPos{x=465, y=71, z=-1325}
+[11Jul2024 23:35:41.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=462, y=71, z=-1353} BlockPos{x=462, y=71, z=-1355}
+[11Jul2024 23:35:41.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=464, y=72, z=-1354} BlockPos{x=465, y=70, z=-1355}
+[11Jul2024 23:37:52.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Chiza_Combo]
+[11Jul2024 23:38:32.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [A Strange Grave Dust]
+[11Jul2024 23:39:33.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [A way to recycle]
+[11Jul2024 23:40:25.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [A needed disk]

@@ -150,3 +150,41 @@
 [12Jul2024 01:02:26.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Ambush]
 [12Jul2024 01:04:05.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ByGonkaPvP> ey tienen a los angelitos secuestrados
 [12Jul2024 01:04:38.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP has made the advancement [Ambush]
+[12Jul2024 01:06:14.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ByGonkaPvP> van a seguir?
+[12Jul2024 01:06:24.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ByGonkaPvP> ahorita me conecto
+[12Jul2024 01:06:27.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Chiza_Combo> SMN
+[12Jul2024 01:06:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Chiza_Combo> SALE
+[12Jul2024 01:06:32.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ByGonkaPvP> vavava
+[12Jul2024 01:06:57.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByGonkaPvP lost connection: Timed out
+[12Jul2024 01:06:57.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP left the game
+[12Jul2024 01:07:58.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to 519.500000, 76.500000, -1360.500000]
+[12Jul2024 01:08:04.993] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[12Jul2024 01:08:04.993] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[12Jul2024 01:08:08.431] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[12Jul2024 01:08:08.432] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[12Jul2024 01:08:08.433] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[12Jul2024 01:08:08.433] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[12Jul2024 01:08:08.433] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[12Jul2024 01:08:48.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to Chiza_Combo]
+[12Jul2024 01:13:46.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to Chiza_Combo]
+[12Jul2024 01:16:35.387] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20751, l='ServerLevel[world]', x=123.55, y=79.00, z=-3707.84] died, message: 'Villager was slain by Vindicator'
+[12Jul2024 01:16:52.887] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20191, l='ServerLevel[world]', x=134.60, y=77.02, z=-3715.18] died, message: 'Villager was shot by Pillager'
+[12Jul2024 01:17:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to Chiza_Combo]
+[12Jul2024 01:18:41.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Light as a Rabbit]
+[12Jul2024 01:19:23.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo is bleeding. Chiza_Combo was slain by Froststalker
+[12Jul2024 01:19:23.035] [Server thread/WARN] [tombstone/]: The death event of the player Chiza_Combo was canceled by another mod
+[12Jul2024 01:19:23.042] [Server thread/INFO] [tombstone/]: The player Chiza_Combo has successfully been saved
+[12Jul2024 01:19:59.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to Chiza_Combo]
+[12Jul2024 01:20:15.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to 519.500000, 76.500000, -1360.500000]
+[12Jul2024 01:20:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -801.500000, 66.500000, 599.500000]
+[12Jul2024 01:20:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to Kuripasdf]
+[12Jul2024 01:21:16.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo is bleeding. Chiza_Combo was slain by Zombie
+[12Jul2024 01:21:16.982] [Server thread/WARN] [tombstone/]: The death event of the player Chiza_Combo was canceled by another mod
+[12Jul2024 01:21:16.985] [Server thread/INFO] [tombstone/]: The player Chiza_Combo has successfully been saved
+[12Jul2024 01:21:26.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuripasdf lost connection: Timed out
+[12Jul2024 01:21:26.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game
+[12Jul2024 01:21:29.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiza_Combo lost connection: Timed out
+[12Jul2024 01:21:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo left the game
+[12Jul2024 01:21:29.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has reached the goal [Strong or Careful]
+[12Jul2024 01:21:29.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo was slain by Zombie
+[12Jul2024 01:21:29.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Your First Grave]

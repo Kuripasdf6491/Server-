@@ -687,3 +687,7 @@
 [11Jul2024 23:45:05.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to -801.500000, 66.500000, 599.500000]
 [11Jul2024 23:46:55.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo has made the advancement [Would you Like to Know More?]
 [11Jul2024 23:47:31.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chiza_Combo: Teleported Chiza_Combo to Kuripasdf]
+[11Jul2024 23:56:53.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=521, y=71, z=-1285} BlockPos{x=520, y=70, z=-1287}
+[11Jul2024 23:58:38.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=501, y=72, z=-1299} BlockPos{x=502, y=71, z=-1299}
+[11Jul2024 23:58:40.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=496, y=72, z=-1293} BlockPos{x=498, y=70, z=-1292}
+[11Jul2024 23:59:59.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByGonkaPvP: Teleported ByGonkaPvP to Chiza_Combo]

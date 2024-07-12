@@ -93,3 +93,24 @@
 [12Jul2024 00:31:38.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByGonkaPvP joined the game
 [12Jul2024 00:31:39.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chiza_Combo[/[::1]:43918] logged in with entity id 3822 at (695.1921297335336, 70.0, -1784.7775597554025)
 [12Jul2024 00:31:39.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo joined the game
+[12Jul2024 00:34:59.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to ByGonkaPvP]
+[12Jul2024 00:35:38.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo is bleeding. Chiza_Combo fell from a high place
+[12Jul2024 00:35:38.845] [Server thread/WARN] [tombstone/]: The death event of the player Chiza_Combo was canceled by another mod
+[12Jul2024 00:35:38.871] [Server thread/INFO] [tombstone/]: The player Chiza_Combo has successfully been saved
+[12Jul2024 00:36:27.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to 519.500000, 76.500000, -1360.500000]
+[12Jul2024 00:37:14.540] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[12Jul2024 00:37:14.544] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[12Jul2024 00:37:14.555] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[12Jul2024 00:37:14.556] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[12Jul2024 00:37:14.557] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[12Jul2024 00:37:14.574] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[12Jul2024 00:37:14.576] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[12Jul2024 00:37:14.714] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[12Jul2024 00:37:14.715] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[12Jul2024 00:39:19.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuripasdf: Teleported Kuripasdf to ByGonkaPvP]
+[12Jul2024 00:43:26.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo is bleeding. Chiza_Combo was slain by Husk
+[12Jul2024 00:43:26.183] [Server thread/WARN] [tombstone/]: The death event of the player Chiza_Combo was canceled by another mod
+[12Jul2024 00:43:26.189] [Server thread/INFO] [tombstone/]: The player Chiza_Combo has successfully been saved
+[12Jul2024 00:45:07.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiza_Combo is bleeding. Chiza_Combo was killed by Area Effect Cloud using magic
+[12Jul2024 00:45:07.236] [Server thread/WARN] [tombstone/]: The death event of the player Chiza_Combo was canceled by another mod
+[12Jul2024 00:45:07.239] [Server thread/INFO] [tombstone/]: The player Chiza_Combo has successfully been saved
